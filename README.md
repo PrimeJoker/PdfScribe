@@ -9,7 +9,7 @@ PdfScribe is a PDF virtual printer. Check the [releases](https://github.com/stch
 
 ## Building from source
 
-Visual Studio 2022 is required to build PdfScribe.
+Visual Studio 2022 (or later) with the [Heatwave](https://marketplace.visualstudio.com/items?itemName=FireGiant.FireGiantHeatWaveDev17) extension is required to build PdfScribe.
 
 PdfScribe links to, and distributes the following third party components:
 
